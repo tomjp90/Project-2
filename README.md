@@ -25,6 +25,7 @@ We strongly believe this app will assist people moving or living in Victoria to 
 * Python
 * Pymongo
 * Flask
+* MongoDB
 * Javascript
   * D3
   * Leaflet
