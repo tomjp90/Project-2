@@ -20,7 +20,7 @@ We strongly believe this app will assist people moving or living in Victoria to 
 * Tom Peddlesden https://github.com/tomjp90
 * Welan Chu https://github.com/welanc
 
-## Technologies
+## Technologies Used:
 
 * Python
 * Pymongo
